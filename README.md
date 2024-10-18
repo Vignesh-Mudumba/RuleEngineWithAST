@@ -51,4 +51,4 @@ Make sure  the following are installed:
        React: JavaScript library for building user interfaces.
        axios: Promise-based HTTP client for making requests.
 
-There are package.json files in the frontend folder as well as in the backend folder .You can go the respective directories(frontend , backend) and type "npm install" in the terminal to install all the requiered dependencies.
+There are package.json files in the frontend folder as well as in the backend folder .You can go the respective directories(frontend , backend) and type "npm install" in the terminal to install all the required dependencies.
