@@ -52,3 +52,9 @@ Make sure  the following are installed:
        axios: Promise-based HTTP client for making requests.
 
 There are package.json files in the frontend folder as well as in the backend folder .You can go the respective directories(frontend , backend) and type "npm install" in the terminal to install all the required dependencies.
+
+### Steps to run 
+  - ### Go to the frontend directory in the terminal and type "npm install" to install the required dependencies for the frontend.
+  - ### In the same terminal , type "npm start" to start the server .
+  - ### Open a new terminal,Go to the backend directory in the terminal and type "npm install" to install the required dependencies for          the backend.
+  - ### In the same terminal , type "npm run dev" to start the server .
