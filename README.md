@@ -58,4 +58,4 @@ There are package.json files in the frontend folder as well as in the backend fo
   - ### In the same terminal , type "npm run dev" to start the server.
   - ### Open a new terminal,Go to the frontend directory in the terminal and type "npm install" to install the required dependencies for          the frontend.
   - ### In the same terminal , type "npm start" to start the server.
-  - ### Here , you can create , combine and evaluate rules using AST (Abstract Syntax Tree).
+  - ### Now the webpage opens.We  can create , combine and evaluate rules using AST (Abstract Syntax Tree).
